@@ -21,4 +21,4 @@ Prospective students
 ====
 
 I am accepting applications from prospective students.
-More information on my [Students](https://atriantafy.github.io/Students) page.
+More information on my [Students](https://atriantafyllopoulos.github.io/Students) page.
