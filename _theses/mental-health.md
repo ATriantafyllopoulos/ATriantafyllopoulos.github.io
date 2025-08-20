@@ -1,7 +1,7 @@
 ---
 title: "Speech & language for mental health"
 collection: theses
-permalink: /theses/audio-drl
+permalink: /theses/mental-health
 excerpt: 'Using speech for the diagnosis and treatment of mental disorders.'
 ---
 

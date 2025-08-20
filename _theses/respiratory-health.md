@@ -1,7 +1,7 @@
 ---
 title: "Speech for respiratory health"
 collection: theses
-permalink: /theses/audio-drl
+permalink: /theses/respiratory-health
 excerpt: 'Using speech for the diagnosis of respiratory diseases.'
 ---
 
