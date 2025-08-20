@@ -24,6 +24,7 @@ The main open research question in respiratory health are:
 
 References
 ---
+Triantafyllopoulos, A., Fendler, M., Batliner, A., Gerczuk, M., Amiriparian, S., Berghaus, T. M., & Schuller, B. W. (2022). Distinguishing between pre-and post-treatment in the speech of patients with chronic obstructive pulmonary disease. arXiv preprint arXiv:2207.12784.
 
 Triantafyllopoulos, A., Batliner, A., Mayr, W., Fendler, M., Pokorny, F., Gerczuk, M., ... & Schuller, B. (2024). Sustained vowels for pre-vs post-treatment COPD classification. arXiv preprint arXiv:2406.06355.
 
