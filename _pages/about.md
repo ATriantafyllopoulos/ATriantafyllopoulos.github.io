@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a doctoral candidate with the School of Computation, Information and Technology (CIT) at the Technical University of Munich, supervised by [Prof. Björn Schuller](http://schuller.one/). I work as a research assistant for the [Chair of Health Informatics](https://www.kiinformatik.mri.tum.de/en/chichair-health-informatics), which belongs officially to the TUM University Hospital and the TUM School of Medicine & Health, although we have a second affiliation with CIT. Previous to that, I worked as a research assistant for the University of Augsburg and as an AI Researcher for [audEERING](https://www.audeering.com/). I studied Electrical & Computer Engineering at the University of Patras.
+I am a postdoctoral researcher with the School of Computation, Information and Technology (CIT) at the Technical University of Munich, working with [Prof. Björn Schuller](http://schuller.one/). I work as a research assistant for the [Chair of Health Informatics](https://www.kiinformatik.mri.tum.de/en/chichair-health-informatics), which belongs officially to the TUM University Hospital and the TUM School of Medicine & Health, although we have a second affiliation with CIT. Previous to that, I worked as a research assistant for the University of Augsburg and as an AI Researcher for [audEERING](https://www.audeering.com/). I studied Electrical & Computer Engineering at the University of Patras.
 
 
 Research
