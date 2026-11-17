@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computation, Information and Technology, Technical University of Munich, 2025 (expected)
+* Dr.-Ing. in Computation, Information and Technology, Technical University of Munich, 2026 
 * M.Sc. (Dipl.-Ing.) in Electrical & Computer Engineering, University of Patras, 2017
 
 Work experience
